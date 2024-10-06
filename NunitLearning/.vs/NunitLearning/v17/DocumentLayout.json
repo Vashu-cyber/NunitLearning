@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1.tele\\NunitLearning\\NunitLearning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F912A751-BBE2-439E-9B53-406D960F5249}|TestProject1\\TestProject1.csproj|d:\\1.tele\\nunitlearning\\nunitlearning\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F912A751-BBE2-439E-9B53-406D960F5249}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912A751-BBE2-439E-9B53-406D960F5249}|TestProject1\\TestProject1.csproj|d:\\1.tele\\nunitlearning\\nunitlearning\\testproject1\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912A751-BBE2-439E-9B53-406D960F5249}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912A751-BBE2-439E-9B53-406D960F5249}|TestProject1\\TestProject1.csproj|d:\\1.tele\\nunitlearning\\nunitlearning\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912A751-BBE2-439E-9B53-406D960F5249}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F912A751-BBE2-439E-9B53-406D960F5249}|TestProject1\\TestProject1.csproj|d:\\1.tele\\nunitlearning\\nunitlearning\\testproject1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F912A751-BBE2-439E-9B53-406D960F5249}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestProject1",
+              "DocumentMoniker": "D:\\1.tele\\NunitLearning\\NunitLearning\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
+              "ToolTip": "D:\\1.tele\\NunitLearning\\NunitLearning\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1\\TestProject1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T09:22:12.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Base.cs",
+              "DocumentMoniker": "D:\\1.tele\\NunitLearning\\NunitLearning\\TestProject1\\utilities\\Base.cs",
+              "RelativeDocumentMoniker": "TestProject1\\utilities\\Base.cs",
+              "ToolTip": "D:\\1.tele\\NunitLearning\\NunitLearning\\TestProject1\\utilities\\Base.cs",
+              "RelativeToolTip": "TestProject1\\utilities\\Base.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:23:13.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\1.tele\\NunitLearning\\NunitLearning\\TestProject1\\Class1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Class1.cs",
+              "ToolTip": "D:\\1.tele\\NunitLearning\\NunitLearning\\TestProject1\\Class1.cs",
+              "RelativeToolTip": "TestProject1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:22:25.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\1.tele\\NunitLearning\\NunitLearning\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\1.tele\\NunitLearning\\NunitLearning\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:48:20.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
